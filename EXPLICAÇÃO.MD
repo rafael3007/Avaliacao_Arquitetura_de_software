@@ -1,5 +1,19 @@
 # Stock Net - Implementação de Padrões de Projeto
 
+```javascript
+// Obs: Apenas respondendo algumas considerações feitas na avaliação II ->
+// Inicialmente pensando no documentos de requisitos eu pensei em dividir as camadas não só dentro do código, mas até nas estrutura
+// de forma que houvesse uma divisão como frontend, backend, cloud(ou infra), onde cada camada possui sua responsabilidade
+// por isso pensei em dividir em dois código, porém acabou que ficou bem complexo não só de fazer, mas até de tentar explicar
+
+// Outro ponto foi sobre o video, tive uma infelicidade com meu computador e ficarei devendo, estou ciente das consequências quanto à pontuação...
+
+// Sobre o documento de software eu havia lido as considerações, porém não percebi que o senhor havia feito observações, pois achei que o documento
+// que estava no class era o mesmo que eu havia enviado( mas não, a propriedade do arquivo passou a ser sua tornando-o outro documento)
+// Só então recentemente que pude ler todas as considerações e tentar ajustar, inclusive é uma parte que eu peco muito que é principalmente a formatação do documento
+// seja artigo, tcc, ou documento de requisitos/software e tenho aprendido bastante com suas observações.
+```
+
 Este projeto demonstra a aplicação de três padrões de projeto no contexto de um sistema de gerenciamento de estoque:
 
 - **N-Camadas** (Padrão Arquitetural)
